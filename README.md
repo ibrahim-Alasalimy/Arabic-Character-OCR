@@ -24,41 +24,8 @@ To install the Arabic OCR model, follow these steps:
 
 ## Usage
 
-To use the Arabic OCR model, follow these steps:
-
-1. Import the `ArabicOCR` class from `arabic_ocr.py`.
-2. Initialize the OCR model.
-3. Load an image containing Arabic text.
-4. Call the `recognize_text` method with the image as input to get the recognized text.
-
-Example:
-
-```python
-from arabic_ocr import ArabicOCR
-
-# Initialize the OCR model
-ocr_model = ArabicOCR()
-
-# Load an image containing Arabic text
-image = "example_image.jpg"
-
-# Recognize text in the image
-recognized_text = ocr_model.recognize_text(image)
-
-print("Recognized Text:", recognized_text)
+To use the Arabic OCR model, we recommend the usage of Google Colab for easier execuation and faster data processing
 
 
-#++++++++++++++++++++++++++++++
-Arabic OCR Project - By INNOV8
-++++++++++++++++++++++++++++++ 
-Team:			       
-Mohamed Elhaj                  
-Ibrahim AlSalimy               
-Yousef Khalil		       
-Mohammed Zein                  
-Safeer Ahamed
-Ahmed Alobahi                  
-++++++++++++++++++++++++++++++
-For The Notebooks, Recommended
-To run them using Google Colab
-++++++++++++++++++++++++++++++
+
+
