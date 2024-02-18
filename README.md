@@ -1,5 +1,5 @@
 # Arabic-Character-OCR
-# Arabic OCR Character Model
+## Arabic OCR Character Model
 
 This project aims to develop an Optical Character Recognition (OCR) model specifically designed for recognizing Arabic characters.
 
