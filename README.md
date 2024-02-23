@@ -9,10 +9,10 @@ Arabic OCR is a challenging task due to the complexities of the Arabic script, w
 
 ## Features
 
-- Recognizes Arabic characters from images
-- Supports various fonts, styles, and sizes
-- Preprocessing pipeline for image enhancement
-- Trained on a large dataset of Arabic characters
+- Recognizes Arabic characters from images.
+- Supports various fonts, styles, and sizes.
+- Preprocessing pipeline for image enhancement.
+- Trained on a large dataset of Arabic characters.
 
 ## Usage
 
